@@ -14,7 +14,7 @@ Which variables are significant in predicting the price of a house, and
 How well those variables describe the price of a house.
 
 ## Data Source
-Please find the dataset link here
+Dataset can ve found [here](https://ml-course3-upgrad.s3.amazonaws.com/Assignment_+Advanced+Regression/train.csv)
 
 ## Data Definition
-Data Definition can be found <href URL="https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt">here</href>
+Data Definition can be found [here](https://cdn.upgrad.com/UpGrad/temp/87f67e28-c47e-4725-ae3c-111142c7eaba/data_description.txt)
